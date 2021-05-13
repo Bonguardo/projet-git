@@ -1,4 +1,0 @@
-123123;Bonguardo;Maryse;29.05.1968;F;
-456456;Bonguardo;Patrick;13.09.1966;M;
-789789;Bonguardo;Lucas Jean Antonio;14.01.2001;M;P
-141414;Bonguardo;Jutine Birgit Pietrana;14.01.2001;F;
